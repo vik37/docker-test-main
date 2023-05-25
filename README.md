@@ -1,5 +1,5 @@
 # docker-test-main
-## H2 FIRST TEST FOR GITHUB ACTIONS ``` `#RRGGBB` ** CI ** ``` WITH DOCKER IMAGE.
+## H2 FIRST TEST FOR GITHUB ACTIONS `#RRGGBB` ``` ** CI ** ``` WITH DOCKER IMAGE.
 
 ---
 
