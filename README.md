@@ -9,5 +9,5 @@ FIRST TEST FOR GITHUB ACTIONS "CI" WITH DOCKER IMAGE.
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![.github/workflows/main.yml](https://github.com/vik37/docker-test-main/tree/master/github/workflows/main.yml/badge.svg?branch=feature-1)
+![docker-test-main/.github/workflows/main.yml](https://github.com/vik37/docker-test-main/tree/master/github/workflows/main.yml/badge.svg)
 
