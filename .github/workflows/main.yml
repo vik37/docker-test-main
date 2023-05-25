@@ -1,4 +1,4 @@
-name: ci
+name: first gitaction
 
 on:
   push:
